@@ -1,7 +1,8 @@
 {
   "cacheBootResources": true,
   "config": [
-    "appsettings.json"
+    "appsettings.json",
+    "appsettings.Production.json"
   ],
   "debugBuild": false,
   "entryAssembly": "GalaretkaManagerUI",
